@@ -1,0 +1,12 @@
+From jdutreve at free.fr  Thu Jul 28 11:05:38 2005
+From: jdutreve at free.fr (Jean-Philippe Dutreve)
+Date: Thu, 28 Jul 2005 11:05:38 +0200
+Subject: [Magot-dev] Magot 0.1 beta1 released.
+Message-ID: <20050728110538.cdb3b115xzfosk8c@imp4.free.fr>
+
+Please, feel free to post any bugs or comments before the final 0.1 release.
+
+Regards,
+Jean-Philippe
+
+
